@@ -1,2 +1,2 @@
-Languages
-[![My Skills](https://skillicons.dev/icons?i=py,c)](https://skillicons.dev)
+
+[![My SkillsLanguages](https://skillicons.dev/icons?i=py,c)](https://skillicons.dev)
