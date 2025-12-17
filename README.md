@@ -9,18 +9,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hritiknegi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
 **Languages**<br>
 [![My Languages](https://skillicons.dev/icons?i=python,c)](https://skillicons.dev)<br>
-**Frontend**<br>
-[![My Languages](https://skillicons.dev/icons?i=react,next,tailwind)](https://skillicons.dev)<br>
-**Backend**<br>
-[![My Languages](https://skillicons.dev/icons?i=bun,express,jest,nodejs,npm,workers,pnpm,nginx)](https://skillicons.dev)<br>
 **DB**<br>
-[![My Languages](https://skillicons.dev/icons?i=mongodb,redis,postgres,prisma)](https://skillicons.dev)<br>
-**Cloud**<br>
-[![My Languages](https://skillicons.dev/icons?i=aws,cloudflare,vercel)](https://skillicons.dev)<br>
+[![My Languages](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)<br>
 **Tools**<br>
-[![My Languages](https://skillicons.dev/icons?i=postman,vim,githubactions,docker,git,vite)](https://skillicons.dev)<br>
+[![My Languages](https://skillicons.dev/icons?i=sketchup,githubactions,git,discord)](https://skillicons.dev)<br>
 **Others**<br>
-[![My Languages](https://skillicons.dev/icons?i=arch,arduino,raspberrypi)](https://skillicons.dev)<br>
+[![My Languages](https://skillicons.dev/icons?i=ae,au,blender,pr,unity,unreal)](https://skillicons.dev)<br>
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hritiknegi&theme=dark&hide_border=false)
